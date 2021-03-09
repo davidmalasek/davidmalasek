@@ -1,4 +1,1 @@
-### Hi there 👋
-
-- 🔭 Currently working on **Skywalker** library 🌌
-- 💼 My personal [porfolio](https://davidmalasek.github.io/)
+💻 Currently working on [Skywalker](https://github.com/davidmalasek/Skywalker) CSS library 🌌
