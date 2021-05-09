@@ -1,2 +1,2 @@
 * frontend developer 👨‍💻
-* my [portfolio](https://davidmalasek.github.io/) 📁
+* [my portfolio](https://davidmalasek.github.io/) 📁
