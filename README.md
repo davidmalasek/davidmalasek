@@ -11,4 +11,6 @@ I'm **David**, a passionate software developer and IT student at <strong><a href
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,bootstrap,jquery,php,nodejs,webpack,py,java,git&perline=6)](https://skillicons.dev)
 
-<img src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif" alt="Fun cat gif" style="border-radius: 10px; max-width: 100%; height: auto;">
+<h3>🧑🏻‍💻 My progress at 42 Prague:</h3>
+
+[![dmalasek's 42 stats](https://badge.mediaplus.ma/darkblue/dmalasek?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
