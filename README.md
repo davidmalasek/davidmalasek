@@ -1,6 +1,6 @@
 <h2>👋 Well, hello there!</h2>
 
-I'm **David**, a passionate software developer and IT student at <strong><a href="https://fis.vse.cz" target="_blank">VŠE FIS</a></strong> and <strong><a href="https://www.42prague.com" target="_blank">42 Prague</a></strong> 🧑🏻‍💻.
+I'm **David**, IT student at <strong><a href="https://fis.vse.cz" target="_blank">VŠE FIS</a></strong> and <strong><a href="https://www.42prague.com" target="_blank">42 Prague</a></strong> 🧑🏻‍💻.
 
 <h3>💡 Currently Learning:</h3>
 
